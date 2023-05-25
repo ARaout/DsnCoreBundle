@@ -5,13 +5,12 @@
   "description": "Bundle contenant les modèles de classes utilisés par les api-dsn",
   "keywords": [
     "Ageo",
-    "Dsn",
+    "Dsn"
   ],
-  "homepage": "",
   "license": "MIT",
   "authors": [
     {
-      "name": "Adrien Raout",
+      "name": "Adrien Raout"
     }
   ],
   "autoload": {
@@ -22,5 +21,4 @@
   "require": {
     "php": ">=8.0"
   }
-
 }
