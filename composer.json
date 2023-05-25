@@ -1,0 +1,26 @@
+{
+  "name": "ageo/dsn-core-bundle",
+  "version": "1.0.0",
+  "type": "bundle",
+  "description": "Bundle contenant les modèles de classes utilisés par les api-dsn",
+  "keywords": [
+    "Ageo",
+    "Dsn",
+  ],
+  "homepage": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Adrien Raout",
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ageo\\DsnCoreBundle\\": "./"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+
+}
